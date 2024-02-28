@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+#home{
+    font-size: 80px;
+}
+
+h1{
+    color: #ded70b;
+}
+#dc{
+    height: 382px;
+    width: 400px;
+}
+.cor1{
+    background-color: #ded70b;
+}
+#cr7, #ney, #nanatsu, #op, #got{
+    height: 455px;
+    width: 400px;
+}
+.efeito:hover{
+    cursor: pointer;
+    transform: scale(1.1,1.1);
+    transition-duration: 1s;
+}
+.space{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+#space-1{
+    margin-top: 100px;
+    margin-bottom: 70px;
+    font-size: 80px;
+}
+.submit{
+    background-color: #ded70b;
+}
+
+    
